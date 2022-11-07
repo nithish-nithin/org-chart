@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Mark Hill",
+    "designation": "Cheif Executive Officer",
+    "img": "https://i.imgur.com/uk87y7L.jpg",
+    "children": [
+      {
+        "name": "Joe Linux",
+        "designation": "Cheif Technology Officer",
+
+        "img": "https://i.imgur.com/I8N6wle.gif",
+
+        "children": [
+          {
+            "name": "Linda May",
+            "img": "https://i.imgur.com/I9XFqdd.jpg",
+            "designation": "Cheif Bussiness Officer"
+          }
+        ]
+      },
+      {
+        "name": "Allice Lopez",
+        "img": "https://i.imgur.com/Id57NSW.jpg",
+        "designation": "Cheif Accounting Officer",
+
+        "children": [
+          {
+            "name": "John Green",
+            "img": "https://i.imgur.com/NRYrB0l.jpeg",
+            "designation": "Cheif Information Officer",
+
+            "children": [
+              {
+                "name": "Marry Johnson",
+                "img": "https://i.imgur.com/waxFbz6.jpg",
+                "designation": "Cheif Innovative Officer"
+              },
+              {
+                "name": "Kirk Douglas",
+                "img": "https://i.imgur.com/Xdx7Ptn.jpeg",
+
+                "designation": " Cheif Communication Officer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "rica Reel",
+        "img": "https://i.imgur.com/eX7uYfG.jpeg",
+        "designation": " Cheif Communication Officer"
+      }
+    ]
+  }
+]
